@@ -75,7 +75,7 @@ The prototype successfully:
 ---
 
 ## Author
-- Chaitanya Bhuptani
+Chaitanya Bhuptani
 
 ---
 
