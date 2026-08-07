@@ -49,8 +49,13 @@ Smart Barcode Scanning Using Drone is an IoT-based warehouse inventory managemen
 
 ```
 ├── Code/
-├── Circuit Diagram/
 ├── Images/
+   ├──Block Diagram<img width="775" height="588" alt="image" src="https://github.com/user-attachments/assets/e6c8606b-2c87-4337-bcd8-57cc7dc92233" />
+   ├──Circuit Diagram<img width="779" height="626" alt="image" src="https://github.com/user-attachments/assets/d7189553-9f44-4dce-92e5-1af6a6ac9171" />
+   ├──Drone<img width="772" height="579" alt="image" src="https://github.com/user-attachments/assets/3b8958d0-828d-4624-b4dc-7f235380294d" />
+   ├──Payload<img width="757" height="713" alt="image" src="https://github.com/user-attachments/assets/4971ba31-8b22-4a40-b901-944d8e723a76" />
+   ├──Drone with Payload<img width="757" height="713" alt="image" src="https://github.com/user-attachments/assets/94beafac-e423-48e9-a00b-9670330d933d" />
+
 ├── Documentation/
 ├── README.md
 ```
